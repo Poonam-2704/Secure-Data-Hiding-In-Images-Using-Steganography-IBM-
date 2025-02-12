@@ -47,14 +47,7 @@ Encryption: Add encryption algorithms to encrypt the hidden message for addition
 Compression: Implement compression techniques to allow longer messages to be hidden without significantly altering the image.   
 Cross-Format Support: Extend the project to support other image formats such as PNG, BMP, and GIF.   
 Multi-Layer Embedding: Explore embedding multiple messages in one image using different channels or layers.    
-
-Contributing
-
-Fork the repository.    
-Create a new branch (git checkout -b feature/your-feature).   
-Commit your changes (git commit -am 'Add feature').   
-Push to the branch (git push origin feature/your-feature).   
-Create a new Pull Request.   
+ 
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
