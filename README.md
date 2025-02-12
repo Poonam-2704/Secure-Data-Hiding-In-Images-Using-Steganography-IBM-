@@ -4,32 +4,27 @@ Overview
 
 This project demonstrates steganography the technique of hiding secret messages inside an image to ensure secure communication. The system allows users to encode a secret message into an image and later retrieve it using a passcode for decryption. The encoded message remains hidden and undetectable to the naked eye.
 
-Features
-
+Features:        
 Message Encoding: Embed secret messages within an image.    
 Password Protection: Ensure only authorized users can decode the hidden message.     
 Simple and User-Friendly: Easy-to-use interface with simple inputs for encoding and decoding.      
 Error Handling: Alerts the user if the image is not found or the passcode is incorrect.    
 
-Technologies Used
-
+Technologies Used:                 
 Python: A versatile programming language used to implement the system.     
 OpenCV: Used for image manipulation, including reading, editing, and saving images.       
 Steganography: Hides messages within the image by altering pixel values, making the message invisible to the user.     
 Character Encoding: Maps characters to numeric values and embeds them within the image's pixel values.    
 
-Installation
+Installation   
 
 Prerequisites:      
 Python 3.6+ installed on your system.        
 OpenCV Python library installed.  
 
-Steps to Install 
-
-Clone the repository:
-git clone https://github.com/your-username/Steganography-with-Python.git    
-Install the necessary libraries:  
-pip install opencv-python         
+Steps to Install:        
+Clone the repository: git clone https://github.com/your-username/Steganography-with-Python.git       
+Install the necessary libraries: pip install opencv-python          
 Download or place the image (Treeimage.jpg) where it’s accessible by the program.       
 
 ![Screenshot 2025-02-12 185904](https://github.com/user-attachments/assets/f164fced-5c5c-41bd-b783-3851141b5b45)
