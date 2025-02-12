@@ -29,8 +29,8 @@ Steps to Install
 Clone the repository:
 git clone https://github.com/your-username/Steganography-with-Python.git    
 Install the necessary libraries:  
-pip install opencv-python
-Download or place the image (Treeimage.jpg) where it’s accessible by the program.
+pip install opencv-python         
+Download or place the image (Treeimage.jpg) where it’s accessible by the program.       
 
 ![Screenshot 2025-02-12 185904](https://github.com/user-attachments/assets/f164fced-5c5c-41bd-b783-3851141b5b45)
 
