@@ -1,4 +1,4 @@
-# Steganography-_With-Python-IBM-
+# Steganography With Python(IBM)
 
 Overview
 
@@ -35,9 +35,9 @@ Download or place the image (Treeimage.jpg) where it’s accessible by the progr
 ![Screenshot 2025-02-12 185904](https://github.com/user-attachments/assets/f164fced-5c5c-41bd-b783-3851141b5b45)
 
 
-Usage
+Usage:  
 Step 1: Encoding a Message  
-Input: Provide the secret message and passcode.The secret message will be embedded into the image (Treeimage.jpg), and the result will be saved as Treebranch.jpg.
+Input: Provide the secret message and passcode.The secret message will be embedded into the image (Treeimage.jpg), and the result will be saved as Treebranch.jpg.     
 Step 2: Decoding the Message  
 Input: Provide the passcode to decrypt the secret message from Treebranch.jpg.  
 
