@@ -2,7 +2,7 @@
 
 Overview
 
-This project demonstrates steganography—the technique of hiding secret messages inside an image to ensure secure communication. The system allows users to encode a secret message into an image and later retrieve it using a passcode for decryption. The encoded message remains hidden and undetectable to the naked eye.
+This project demonstrates steganography the technique of hiding secret messages inside an image to ensure secure communication. The system allows users to encode a secret message into an image and later retrieve it using a passcode for decryption. The encoded message remains hidden and undetectable to the naked eye.
 
 Features
 
