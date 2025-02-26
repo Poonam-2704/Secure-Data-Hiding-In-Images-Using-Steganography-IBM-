@@ -1,4 +1,4 @@
-# Steganography With Python(IBM)
+# SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY(IBM)
 
 Overview
 
